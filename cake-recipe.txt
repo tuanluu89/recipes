@@ -10,7 +10,7 @@ Ingredients:
  - 1/2 cup vegetable oil
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
-
+ - 1 new line
 Directions:
  1. Preheat oven to 350 degrees F. Grease and flour two 9-inch round baking
     pans.
@@ -19,6 +19,5 @@ Directions:
     and salt.  Add eggs, milk, oil and vanilla. Mix until smooth.  Stir in
     boiling water (batter will be thin). Pour batter into prepared pans.
  
- 3. Bake 30 to 35 minutes or until a toothpick inserted in the center comes out
-    clean. Cool completely.
+ 
 
